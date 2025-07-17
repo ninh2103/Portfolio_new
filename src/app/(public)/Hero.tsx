@@ -25,10 +25,10 @@ const Hero = () => {
         <div className="relative z-20 bg-gradient-to-b from-neutral-200 to-neutral-500 bg-clip-text py-8 text-transparent flex justify-between items-center w-2/3">
           <div className="w-1/2 flex flex-col items-center justify-center mb-20">
             <h1 className="text-4xl font-bold tracking-tighter md:text-5xl lg:text-5xl">
-              <AuroraText>👋 Hello, I'm Nguyễn Đức Ninh</AuroraText>
+              <AuroraText>👋 Hello, I&apos;m Nguyễn Đức Ninh</AuroraText>
             </h1>
             <TextGenerateEffect
-              words="I'm a student of Information Technology, I've learned about Frontend, Backend, Database, Deploy, and frameworks like React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, and tools like Git, GitHub, and Docker."
+              words="I&apos;m a student of Information Technology, I&apos;ve learned about Frontend, Backend, Database, Deploy, and frameworks like React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, and tools like Git, GitHub, and Docker."
               className="text-left text-[100px] font-bold leading-tight text-black dark:text-white"
             />
 

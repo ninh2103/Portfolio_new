@@ -84,7 +84,7 @@ export const aboutData = [
     content: (
       <div>
         <p className="mb-4 text-xs font-normal text-neutral-800 md:text-sm dark:text-neutral-200">
-          Looking for a programming job with the knowledge I've learned like
+          Looking for a programming job with the knowledge I&apos;ve learned like
           Frontend, Backend, Database, Deploy, and frameworks like React,
           Next.js, Tailwind CSS, Node.js, Express, MongoDB, and tools like Git,
           GitHub, and Docker.
