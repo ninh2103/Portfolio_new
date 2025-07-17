@@ -4,7 +4,7 @@ export const aboutData = [
     content: (
       <div>
         <p className="mb-8 text-xs font-normal text-neutral-800 md:text-sm dark:text-neutral-200">
-          Tốt nghiệp trung học phổ thông tại trường THPT Hoàng Diệu
+          Graduated from high school at Hoàng Diệu High School
         </p>
         <div className="grid grid-cols-2 gap-4">
           <img
@@ -44,7 +44,7 @@ export const aboutData = [
     content: (
       <div>
         <p className="mb-8 text-xs font-normal text-neutral-800 md:text-sm dark:text-neutral-200">
-          Đang học tại trường Đại học Duy Tân, chuyên ngành Công nghệ Thông tin
+          Studying at Duy Tan University, majoring in Information Technology
         </p>
         <div className="grid grid-cols-2 gap-4">
           <img
@@ -84,10 +84,10 @@ export const aboutData = [
     content: (
       <div>
         <p className="mb-4 text-xs font-normal text-neutral-800 md:text-sm dark:text-neutral-200">
-          Đang tìm kiếm công việc lập trình viên với các kiến thức học được như
-          Frontend, Backend, Database, Deploy, và các framework như React,
-          Next.js, Tailwind CSS, Node.js, Express, MongoDB, và các công cụ như
-          Git, GitHub, và Docker.
+          Looking for a programming job with the knowledge I've learned like
+          Frontend, Backend, Database, Deploy, and frameworks like React,
+          Next.js, Tailwind CSS, Node.js, Express, MongoDB, and tools like Git,
+          GitHub, and Docker.
         </p>
         <div className="mb-8">
           <div className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">

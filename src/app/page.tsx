@@ -8,11 +8,21 @@ import { Contact } from "@/app/(public)/Contact";
 const page = () => {
   return (
     <>
-      <Hero />
-      <TimelineForm />
-      <Projects />
-      <Skills />
-      <Contact />
+      <section id="home">
+        <Hero />
+      </section>
+      <section id="timeline">
+        <TimelineForm />
+      </section>
+      <section id="projects">
+        <Projects />
+      </section>
+      <section id="skills">
+        <Skills />
+      </section>
+      <section id="contact">
+        <Contact />
+      </section>
     </>
   );
 };

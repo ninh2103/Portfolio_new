@@ -1,38 +1,20 @@
 export const cartData = [
   {
-    title: "Stripe",
+    title: "Manage Restaurant System",
     description:
-      "A technology company that builds economic infrastructure for the internet.",
-    link: "https://stripe.com",
+      "A system that helps manage a restaurant, including managing orders, managing inventory, and managing customers.",
+    link: "https://github.com/ninh2103/FE_MANAGE_RESTAURANT",
   },
   {
-    title: "Netflix",
+    title: "Manage Schedule Appointment Vaccine System",
     description:
-      "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices.",
-    link: "https://netflix.com",
+      "A system that helps manage a schedule appointment vaccine, including managing schedule appointment vaccine, managing vaccine, and managing customer.",
+    link: "https://github.com/ninh2103/FE_Vaccination",
   },
   {
-    title: "Google",
+    title: "E-commerce Website",
     description:
-      "A multinational technology company that specializes in Internet-related services and products.",
-    link: "https://google.com",
-  },
-  {
-    title: "Meta",
-    description:
-      "A technology company that focuses on building products that advance Facebook's mission of bringing the world closer together.",
-    link: "https://meta.com",
-  },
-  {
-    title: "Amazon",
-    description:
-      "A multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
-    link: "https://amazon.com",
-  },
-  {
-    title: "Microsoft",
-    description:
-      "A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
-    link: "https://microsoft.com",
+      "A website that helps manage a e-commerce, including managing products, managing orders, and managing customers.",
+    link: "https://github.com/ninh2103/E_commerce_Nestjs",
   },
 ];

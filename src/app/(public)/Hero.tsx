@@ -25,22 +25,22 @@ const Hero = () => {
         <div className="relative z-20 bg-gradient-to-b from-neutral-200 to-neutral-500 bg-clip-text py-8 text-transparent flex justify-between items-center w-2/3">
           <div className="w-1/2 flex flex-col items-center justify-center mb-20">
             <h1 className="text-4xl font-bold tracking-tighter md:text-5xl lg:text-5xl">
-              <AuroraText>👋 Xin chào, mình là Nguyễn Đức Ninh</AuroraText>
+              <AuroraText>👋 Hello, I'm Nguyễn Đức Ninh</AuroraText>
             </h1>
             <TextGenerateEffect
-              words="đang là sinh viên ngành Công nghệ Thông tin, đã học được các kiến thức về Frontend, Backend, Database, Deploy, và các framework như React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, và các công cụ như Git, GitHub, và Docker."
+              words="I'm a student of Information Technology, I've learned about Frontend, Backend, Database, Deploy, and frameworks like React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, and tools like Git, GitHub, and Docker."
               className="text-left text-[100px] font-bold leading-tight text-black dark:text-white"
             />
 
             <div className="flex flex-row gap-4 mt-10 w-1/2 mr-auto">
               <RainbowButton className="w-1/2" asChild>
-                <Link href="/">
+                <Link href="./NguyenDucNinh_CV.pdf" download>
                   <DownloadIcon className="w-4 h-4 " />
                   Download CV
                 </Link>
               </RainbowButton>
               <RainbowButton className="w-1/2" asChild>
-                <Link href="https://github.com/NguyenDucNinh">
+                <Link href="https://github.com/ninh2103">
                   <GithubIcon className="w-4 h-4 mr-2" />
                   Link Github
                 </Link>
@@ -51,9 +51,9 @@ const Hero = () => {
           <div className="w-1/2 flex items-center justify-center ml-10">
             <div className="h-[30rem]">
               <DirectionAwareHover imageUrl="/images/anh.jpg">
-                <p className="font-bold text-xl">Ninh Nguyễn</p>
+                <p className="font-bold text-xl">Nguyen Duc Ninh</p>
                 <p className="font-normal text-sm">
-                  Sinh viên ngành Công nghệ Thông tin
+                  Student of Information Technology
                 </p>
               </DirectionAwareHover>
             </div>
