@@ -34,7 +34,7 @@ const Hero = () => {
 
             <div className="flex flex-row gap-4 mt-10 w-1/2 mr-auto">
               <RainbowButton className="w-1/2" asChild>
-                <Link href="/NguyenDucNinh_CV.pdf" download>
+                <Link href="/nguyenducninh_cv.pdf" download>
                   <DownloadIcon className="w-4 h-4 " />
                   Download CV
                 </Link>
