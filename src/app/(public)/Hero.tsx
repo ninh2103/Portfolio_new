@@ -50,7 +50,7 @@ const Hero = () => {
           {/* Image Section */}
           <div className="w-1/2 flex items-center justify-center ml-10">
             <div className="h-[30rem]">
-              <DirectionAwareHover imageUrl="/images/anh.jpg">
+              <DirectionAwareHover imageUrl="https://i.postimg.cc/pVcVGdgJ/anh.jpg" >
                 <p className="font-bold text-xl">Nguyen Duc Ninh</p>
                 <p className="font-normal text-sm">
                   Student of Information Technology
